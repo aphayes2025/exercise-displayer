@@ -1,0 +1,91 @@
+Biking Activities
+--------------------------------------------------
+Month and Date: April, 22
+Exercise Type: Bike
+Distance: 8 Miles
+Time: 55 Minutes
+Elevation: 130 Feet
+Heart Rate: 50 BPM
+Bike Type: Cycling
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: September, 21
+Exercise Type: Bike
+Distance: 9 Miles
+Time: 68 Minutes
+Elevation: 250 Feet
+Heart Rate: 52 BPM
+Bike Type: Mountain
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: April, 28
+Exercise Type: Bike
+Distance: 14 Miles
+Time: 95 Minutes
+Elevation: 155 Feet
+Heart Rate: 50 BPM
+Bike Type: Cycling
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: April, 17
+Exercise Type: Bike
+Distance: 4 Miles
+Time: 30 Minutes
+Elevation: 80 Feet
+Heart Rate: 55 BPM
+Bike Type: Cycling
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: May, 24
+Exercise Type: Bike
+Distance: 9 Miles
+Time: 62 Minutes
+Elevation: 145 Feet
+Heart Rate: 60 BPM
+Bike Type: Cycling
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: June, 25
+Exercise Type: Bike
+Distance: 16 Miles
+Time: 118 Minutes
+Elevation: 250 Feet
+Heart Rate: 50 BPM
+Bike Type: Cycling
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: June, 19
+Exercise Type: Bike
+Distance: 6 Miles
+Time: 74 Minutes
+Elevation: 278 Feet
+Heart Rate: 55 BPM
+Bike Type: Mountain
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: June, 14
+Exercise Type: Bike
+Distance: 4 Miles
+Time: 53 Minutes
+Elevation: 190 Feet
+Heart Rate: 55 BPM
+Bike Type: Mountain
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: June, 24
+Exercise Type: Bike
+Distance: 11 Miles
+Time: 89 Minutes
+Elevation: 345 Feet
+Heart Rate: 60 BPM
+Bike Type: Mountain
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: June, 29
+Exercise Type: Bike
+Distance: 5 Miles
+Time: 43 Minutes
+Elevation: 104 Feet
+Heart Rate: 60 BPM
+Bike Type: Mountain
+--------------------------------------------------

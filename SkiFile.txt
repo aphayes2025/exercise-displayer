@@ -1,0 +1,91 @@
+Skiing Activities
+--------------------------------------------------
+Month and Date: March, 29
+Exercise Type: Ski
+Distance: 10 Miles
+Time: 88 Minutes
+Elevation: 2120 Feet
+Heart Rate: 60 BPM
+Mountain: SugarBush
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: May, 21
+Exercise Type: Ski
+Distance: 8 Miles
+Time: 21 Minutes
+Elevation: 1054 Feet
+Heart Rate: 58 BPM
+Mountain: Stowe
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: March, 22
+Exercise Type: Ski
+Distance: 4 Miles
+Time: 75 Minutes
+Elevation: 1827 Feet
+Heart Rate: 55 BPM
+Mountain: SugarLoaf
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: January, 17
+Exercise Type: Ski
+Distance: 8 Miles
+Time: 172 Minutes
+Elevation: 2201 Feet
+Heart Rate: 55 BPM
+Mountain: SugarBush
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: January, 21
+Exercise Type: Ski
+Distance: 15 Miles
+Time: 201 Minutes
+Elevation: 1754 Feet
+Heart Rate: 60 BPM
+Mountain: Killington
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: January, 5
+Exercise Type: Ski
+Distance: 7 Miles
+Time: 143 Minutes
+Elevation: 1920 Feet
+Heart Rate: 55 BPM
+Mountain: SugarBush
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: January, 7
+Exercise Type: Ski
+Distance: 6 Miles
+Time: 120 Minutes
+Elevation: 2010 Feet
+Heart Rate: 55 BPM
+Mountain: SugarBush
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: January, 8
+Exercise Type: Ski
+Distance: 4 Miles
+Time: 75 Minutes
+Elevation: 1620 Feet
+Heart Rate: 55 BPM
+Mountain: SugarBush
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: January, 12
+Exercise Type: Ski
+Distance: 5 Miles
+Time: 143 Minutes
+Elevation: 2012 Feet
+Heart Rate: 60 BPM
+Mountain: MadRiverGlen
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: February, 5
+Exercise Type: Ski
+Distance: 13 Miles
+Time: 242 Minutes
+Elevation: 1870 Feet
+Heart Rate: 60 BPM
+Mountain: SugarBush
+--------------------------------------------------

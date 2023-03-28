@@ -1,0 +1,91 @@
+Running Activities
+--------------------------------------------------
+Month and Date: January, 22
+Exercise Type: Run
+Distance: 3 Miles
+Time: 27 Minutes
+Elevation: 210 Feet
+Heart Rate: 55 BPM
+Shoe Type: Converse
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: June, 1
+Exercise Type: Run
+Distance: 8 Miles
+Time: 78 Minutes
+Elevation: 105 Feet
+Heart Rate: 65 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: April, 11
+Exercise Type: Run
+Distance: 4 Miles
+Time: 32 Minutes
+Elevation: 114 Feet
+Heart Rate: 65 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: April, 19
+Exercise Type: Run
+Distance: 5 Miles
+Time: 45 Minutes
+Elevation: 32 Feet
+Heart Rate: 60 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: May, 20
+Exercise Type: Run
+Distance: 12 Miles
+Time: 145 Minutes
+Elevation: 100 Feet
+Heart Rate: 62 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: May, 29
+Exercise Type: Run
+Distance: 7 Miles
+Time: 85 Minutes
+Elevation: 100 Feet
+Heart Rate: 58 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: September, 21
+Exercise Type: Run
+Distance: 4 Miles
+Time: 30 Minutes
+Elevation: 5 Feet
+Heart Rate: 67 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: December, 17
+Exercise Type: Run
+Distance: 2 Miles
+Time: 15 Minutes
+Elevation: 26 Feet
+Heart Rate: 55 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: April, 29
+Exercise Type: Run
+Distance: 14 Miles
+Time: 112 Minutes
+Elevation: 45 Feet
+Heart Rate: 60 BPM
+Shoe Type: Nike
+--------------------------------------------------
+--------------------------------------------------
+Month and Date: April, 5
+Exercise Type: Run
+Distance: 4 Miles
+Time: 15 Minutes
+Elevation: 48 Feet
+Heart Rate: 60 BPM
+Shoe Type: Nike
+--------------------------------------------------

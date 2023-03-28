@@ -1,0 +1,7 @@
+# ninja log v5
+2	834	1680018830096208913	CMakeFiles/exercise-displayer.dir/BikeDisplayer.cpp.o	22a6fb7523843ca
+1	835	1680018830096229996	CMakeFiles/exercise-displayer.dir/SkiDisplayer.cpp.o	cd0f7304f1b17617
+2	836	1680018830097670888	CMakeFiles/exercise-displayer.dir/RunDisplayer.cpp.o	dbb52af1c30065b4
+3	847	1680018830111822849	CMakeFiles/exercise-displayer.dir/ExerciseDisplayer.cpp.o	1bf3eec3472bbc57
+0	947	1680018830212196642	CMakeFiles/exercise-displayer.dir/main.cpp.o	7b89148b728f833b
+947	1308	1680018830575938181	exercise-displayer	ba7c548e057677e0

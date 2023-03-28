@@ -1,0 +1,3 @@
+/Users/aidanhayes/CLionProjects/exercise-displayer/cmake-build-debug/CMakeFiles/exercise-displayer.dir
+/Users/aidanhayes/CLionProjects/exercise-displayer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aidanhayes/CLionProjects/exercise-displayer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
